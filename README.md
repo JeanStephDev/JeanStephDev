@@ -14,7 +14,7 @@ different).
 
 <img src="js-logo.png" alt="Jean Steph Dev logo" height="90" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=200&section=header&text=Jean%20Steph&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Self-taught%20Web%2C%20App%20%26%20AI%20Developer&descAlignY=58&descSize=18" width="100%" alt="Jean Steph banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=200&section=header&text=Jean%20Steph%20Dev&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Self-taught%20Web%2C%20App%20%26%20AI%20Developer&descAlignY=58&descSize=18" width="100%" alt="Jean Steph banner" />
 
 <img src="https://readme-typing-svg.demolab.com/?font=Inter&size=18&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=600&lines=Building+websites+and+apps%2C+solo;Always+learning%2C+one+project+at+a+time;Currently+building+Open+To+World" alt="Typing animation" />
 
@@ -78,9 +78,9 @@ I'm a self-taught, independent developer building websites, apps, and automation
 
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeanstephdev&show_icons=true&theme=default&hide_border=true&title_color=2563EB&icon_color=2563EB)](https://github.com/Jeanstephdev)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=JeanStephDev&show_icons=true&theme=default&hide_border=true&title_color=2563EB&icon_color=2563EB)](https://github.com/JeanStephDev)
 
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeanstephdev&layout=compact&hide_border=true&title_color=2563EB)](https://github.com/Jeanstephdev)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanStephDev&layout=compact&hide_border=true&title_color=2563EB)](https://github.com/JeanStephDev)
 
 </div>
 
