@@ -1,18 +1,14 @@
 <!--
-This README is for your GitHub PROFILE repo — the one named exactly
-like your GitHub username (e.g. create a public repo called
-"Jeanstephdev" if it doesn't already exist, and put this file in it
-as README.md). GitHub will then show it at the top of your profile page.
-
-Before using this, double-check the GitHub username used in the stats
-badges below matches yours exactly (I used "Jeanstephdev" based on
-your site's existing GitHub link — update every occurrence if it's
-different).
+This README is for your GitHub PROFILE repo — create a public repo
+named exactly "JeanStephDev" (your username) if it doesn't already
+exist, and put this file in it as README.md. GitHub will then show it
+at the top of your profile page. Also add your js-logo.png to that
+same repo, next to this file, so the logo image above resolves.
 -->
 
 <div align="center">
 
-<img src="js-logo.png" alt="Jean Steph Dev logo" height="90" />
+<img src="https://www.lordobitotech.xyz/logo-full.png" alt="Jean Steph Dev logo" height="90" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=200&section=header&text=Jean%20Steph&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Self-taught%20Web%2C%20App%20%26%20AI%20Developer&descAlignY=58&descSize=18" width="100%" alt="Jean Steph banner" />
 
@@ -76,9 +72,9 @@ I'm a self-taught, independent developer building websites, apps, and automation
 
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeanstephdev&show_icons=true&theme=default&hide_border=true&title_color=2563EB&icon_color=2563EB)](https://github.com/Jeanstephdev)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=JeanStephDev&show_icons=true&theme=default&hide_border=true&title_color=2563EB&icon_color=2563EB)](https://github.com/JeanStephDev)
 
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeanstephdev&layout=compact&hide_border=true&title_color=2563EB)](https://github.com/Jeanstephdev)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanStephDev&layout=compact&hide_border=true&title_color=2563EB)](https://github.com/JeanStephDev)
 
 </div>
 
