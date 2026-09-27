@@ -6,7 +6,7 @@ same repo, next to this file, so the logo below resolves.
 -->
 
 <p align="center">
-  <img src="https://www.lordobitotech.xyz/logo-full2.png" alt="Jean Steph Dev" width="120"/>
+  <img src="https://www.lordobitotech.xyz/logo-full-2.png" alt="Jean Steph Dev" width="120"/>
 </p>
 
 <p align="center">
